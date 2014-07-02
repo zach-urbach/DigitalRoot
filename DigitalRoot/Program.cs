@@ -10,7 +10,7 @@ namespace DigitalRoot
     {
         static void Main(string[] args)
         {
-            DigitalRoot("45734");
+            DigitalRoot("563425");
 
             Console.ReadKey();
         }
